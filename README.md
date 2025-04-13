@@ -10,7 +10,7 @@ This is my final project on CS50P course.
 ## Getting Started
 
 1. **Run the Program**:
-    - To start to program, first cd to your "database storage folder" and run the program through a CLI 
+    - To start to program, first cd to your "database storage folder" and run the project.py file through a CLI with python3
     - First the program will ask for the database name. This will correspond to a CSV file having the same name which will store your portfolio data in the "database storage folder".
     - Simply input your username. If there isn't a CSV file with that name in the "database storage folder", you'll have the option to create a new database with the inputted name or retry.
 
@@ -41,4 +41,4 @@ This is my final project on CS50P course.
 - The "Show My Current Portfolio" option find the latest market prices and gives you a snapshot of your holdings and performance.
 - Exit the program by input any other keys when choosing options. 
 
-**Note**: The program is just a beginning, further update will arrives in foreseen future
+**Note**: The program is just a beginning, further update will arrives in foreseen future if i have time, or maybe i will convert it into a application program. idk, let the future answer ==][==
